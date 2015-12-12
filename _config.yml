@@ -1,0 +1,28 @@
+name: FMT
+favicon: null
+layout_spectrum: 0.040848441421985626
+typography_spectrum: 0.6511848783120513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09811788867227733
+  lightness: 0.01894198451191187
+  saturation: 0.047767523676157
+  rhythmicContrast: 0.7239520377479494
+purpose: []
